@@ -1,2 +1,9 @@
-.metadata/
 RemoteSystemsTempFiles/
+Servers/
+.metadata
+**/.classpath
+**/.project
+**/.settings
+**/target
+**/build
+**/bin
